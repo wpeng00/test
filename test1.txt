@@ -1,0 +1,14 @@
+1.2017-9-26
+（1）初始页标签生成机制请略过，刚收到完整标签，正在导入与重新更改机制。
+（2）测试地址：
+http://testonpack.unileverfoodsolutions.com.cn:31233/yourtaste/
+（3）测试数据库为ufs_tag2017 
+用到的表名为
+ufs_task活动任务配置表,
+ufs_task_tag活动标签表,
+ufs_task_actor参与者操作标签表  
+
+
+
+2.线上地址
+http://biaoqian.unileverfoodsolutions.com.cn/
